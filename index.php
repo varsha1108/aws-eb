@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Elastic beanstalk with codepipeline withe developer tools with migration"
+echo "ninganna ravikiran praveen shivu krishna varsha sabree ganapathy  santhosh rakshisth priyanka vishwa"
  ?>
 
 </body>
